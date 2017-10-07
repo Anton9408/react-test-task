@@ -1,0 +1,41 @@
+.content {
+	width: 380px;
+	margin: 40px auto;
+}
+
+.content-title {
+	font-weight: 400;
+}
+
+.form {
+	margin-top:40px;
+}
+
+.content-col, .content-row {
+	text-align: left;
+	margin-top: 20px;
+}
+
+.content-row.btn {
+	text-align: center;
+}
+
+.content-label {
+	text-transform: uppercase;
+	font-weight: 400;
+}
+
+.ant-select-selection__placeholder {
+	font-weight: 400;
+}
+
+.intl-tel-input.allow-dropdown {
+	display: block !important;
+}
+
+.intl-tel-input.allow-dropdown .flag-container .selected-flag {
+	margin-left: 6px;
+}
+.intl-tel-input.allow-dropdown .flag-container .selected-flag:focus {
+	outline: none;
+}
